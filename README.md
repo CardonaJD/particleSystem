@@ -4,6 +4,6 @@
 —William Reeves, "Particle Systems—A Technique for Modeling a Class of Fuzzy
 Objects," ACM Transactions on Graphics 2:2 (April 1983), 92. [Extract from The Nature Of Code] 
 
-In the link below , you will find a representation of a particle system, he. The code was built with JavaScript and the p5.js library
+In the link below , you will find a representation of a particle system, you have to click over the screen in order to see how it works . The code was built with JavaScript and the p5.js library
 
 https://cardonajd.github.io/gravitationalForce/.
