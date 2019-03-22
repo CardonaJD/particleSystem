@@ -6,4 +6,4 @@ Objects," ACM Transactions on Graphics 2:2 (April 1983), 92. [Extract from The N
 
 In the link below , you will find a representation of a particle system, you have to click over the screen in order to see how it works . The code was built with JavaScript and the p5.js library
 
-https://cardonajd.github.io/gravitationalForce/.
+https://cardonajd.github.io/particleSystem/.
