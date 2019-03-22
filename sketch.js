@@ -2,7 +2,7 @@ let system = [];
 let b = [];
 
 function setup() {
-    createCanvas(1000, 1300);
+    createCanvas(1300, 1000);
 }
 
 function draw() {
